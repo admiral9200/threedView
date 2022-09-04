@@ -19,13 +19,16 @@
     "typescript": "^4.8.2",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http://lastcode802.github.io/3dmodel_reactjs_nextjs/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage ./src",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "predeploy": "npm run build-storybook",
+    "deploy-storybook": "gh-pages -d storybook-static"
   },
   "eslintConfig": {
     "extends": [
@@ -69,6 +72,7 @@
     "@types/three": "^0.144.0",
     "babel-plugin-named-exports-order": "0.0.2",
     "canvas": "^2.9.3",
+    "gh-pages": "^4.0.0",
     "gl": "^5.0.3",
     "node-gyp": "^9.1.0",
     "prebuild-install": "^7.1.1",
