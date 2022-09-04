@@ -51,6 +51,10 @@ function App() {
 
 export default App;
 ```
+In the interactive demo below, try changing the code and see how it affects the output.
+
+[<img src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" width="40"/>](https://lastcode802.github.io/threedview/)
+
 ## Document
 #
 ## Props
