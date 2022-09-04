@@ -9,6 +9,16 @@
   },
   "files": [
     "lib"
+  ],"keywords": [
+    "react",
+    "typescript",
+    "lastcode",
+    "3dmodel",
+    "nextjs",
+    "three",
+    "threejs",
+    "three-obj-mtl-loader",
+    "three-orbitcontrols"
   ],
   "repository": {
     "type": "git",
