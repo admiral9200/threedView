@@ -28,7 +28,7 @@ This library or package is all about rendering your 3D models in way, So you can
 | ------------- | ------------- | ------------- | ------------- |
 |  model3dmtl*  | string  | ./assets/IronMan/IronMan.mtl  | assests must be in the public folder  |
 | model3dobj*   | string  | ./assets/IronMan/IronMan.obj  | assests must be in the public folder  |
-|  near*        | number  |0.1  | (-10)-1000 height  |
+|  near*        | number  |0.1  | 0.1-(-10)-1000 |
 | positionx3d*  | number  | 3  | 350-(-800000)  |
 |  positiony3d* | number  | 5  | 30-(-800000)  |
 | positionz3d*  | number  | 20  |20-(-800000)  |
