@@ -1,4 +1,5 @@
 import { Story, Meta } from '@storybook/react';
+import React from 'react';
 import ThreedView, {ThreedViewProps} from '../../components/ThreedView';
 
 export default {
