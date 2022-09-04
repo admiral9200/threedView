@@ -1,5 +1,5 @@
 {
-  "name": "@lastcode/3dmodel_reactjs_nextjs",
+  "name": "@lastcode802/3dmodel_reactjs_nextjs",
   "version": "0.1.0",
   "description": "A custom lib for ThreeD View",
   "author": "lastcode802",
@@ -9,7 +9,8 @@
   },
   "files": [
     "lib"
-  ],"keywords": [
+  ],
+  "keywords": [
     "react",
     "typescript",
     "lastcode",
@@ -22,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lastcode802/3dmodel_reactjs_nextjs"
+    "url": "git+https://github.com/lastcode802/3dmodel_reactjs_nextjs.git"
   },
   "private": true,
   "dependencies": {
@@ -102,5 +103,12 @@
     "prebuild-install": "^7.1.1",
     "prop-types": "^15.8.1",
     "webpack": "^5.74.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lastcode802/3dmodel_reactjs_nextjs/issues"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
   }
 }
