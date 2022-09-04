@@ -5,10 +5,9 @@
 
 <h1 align="center">lastcode802</h1>
 
-https://user-images.githubusercontent.com/52934734/188311014-3635fcbc-c53b-4d21-a137-3d5e19adf2b9.mp4
-<video width="900" height="300" autoplay loop>
-  <source src="https://user-images.githubusercontent.com/52934734/188311014-3635fcbc-c53b-4d21-a137-3d5e19adf2b9.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/52934734/188311214-21af523f-5562-46ca-83ca-521e7f064e4e.mp4
 
 
 # Getting Started with Create React App
