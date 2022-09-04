@@ -20,6 +20,37 @@ This library or package is all about rendering your 3D models in way, So you can
 #
 ## Available Code
 
+```jsx
+import * as React from 'react';
+import { ThreedView } from "@lastcode802/threedview";
+
+function App() {
+  return (
+    <ThreedView
+      model3dmtl="./assets/IronMan/IronMan.mtl"
+      model3dobj="./assets/IronMan/IronMan.obj"
+      near={0.1}
+      positionx3d={0}
+      positiony3d={5}
+      positionz3d={20}
+      meshpositionx={0}
+      meshpositiony={3}
+      meshpositionz={0}
+      rotationx={0.0}
+      rotationy={0.01}
+      rotationz={0.0}
+      scalex={0.02}
+      scaley={0.02}
+      scalez={0.02}
+      threedviewcanvascolor="#263238"
+      directionallightcolor={0xffffff}
+      directionallightintensity={1.8}
+    />
+  );
+}
+
+export default App;
+```
 ## Document
 #
 ## Props
