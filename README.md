@@ -12,8 +12,38 @@ https://user-images.githubusercontent.com/52934734/188311214-21af523f-5562-46ca-
 
 # Lastcode802 Present 3d Model View
 
-This library render a 3d model View on React.js and Next.js 
+This library render a 3d model View on React.js and Next.js
+
+## Description
+This library or package is all about rendering your 3D models in way, So you can manage or get preview of your 3D models and play with them. 
+
+#
 ## Available Code
+
+## Document
+#
+## Props
+			
+|     prop      |      type     |     default   |   example     |
+| ------------- | ------------- | ------------- | ------------- |
+|  model3dmtl*  | string  | ./assets/IronMan/IronMan.mtl  | assests must be in the public folder  |
+| model3dobj*   | string  | ./assets/IronMan/IronMan.obj  | assests must be in the public folder  |
+|  near*        | number  |0.1  | (-10)-1000 height  |
+| positionx3d*  | number  | 3  | 350-(-800000)  |
+|  positiony3d* | number  | 5  | 30-(-800000)  |
+| positionz3d*  | number  | 20  |20-(-800000)  |
+| meshpositionx*| number  | 0  | 0 |
+| meshpositiony*| number  | 3  | 0 |
+| meshpositionz*| number  | 0  | 0 |
+| rotationx*    | number  | 0  |  0-0.001|
+|  rotationy*   | number  | 0.01  | 0-0.01   |
+| rotationz*    | number  | 0  | 0-0.001  |
+|  scalex*      | number  | 0  | (0.1-0.9,0.01-0.0.9,0.0001-0.0009) |
+|  scaley*      | number  | 0.02  |  (0.1-0.9,0.01-0.0.9,0.0001-0.0009) |
+|  scalez*      | number  | 0.02  |  (0.1-0.9,0.01-0.0.9,0.0001-0.0009) |
+| threedviewcanvascolor*  | THREE.ColorRepresentation  | white  | Accepts hash vale,rgb and name of the color  |
+|  directionallightcolor*  | number | 16777215  | Accepts hash vale,rgb and name of the color  |
+| directionallightintensity*  | number  | 1.8  | 0-255  |
 
 
 <hr></hr>
