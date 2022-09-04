@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lastcode802/3dmodel_reactjs_nextjs.git"
+    "url": "git+https://github.com/lastcode802/threedview.git"
   },
   "private": true,
   "dependencies": {
@@ -43,7 +43,7 @@
     "typescript": "^4.8.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://lastcode802.github.io/3dmodel_reactjs_nextjs/",
+  "homepage": "https://lastcode802.github.io/threedview/",
   "scripts": {
     "start": "react-scripts start",
     "react_build": "react-scripts build",
