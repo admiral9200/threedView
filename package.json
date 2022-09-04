@@ -1,6 +1,6 @@
 {
-  "name": "@lastcode802/3dmodel_reactjs_nextjs",
-  "version": "0.1.3",
+  "name": "@lastcode802/threedview",
+  "version": "0.1.1",
   "description": "A custom lib for ThreeD View",
   "author": "lastcode802",
   "main": "./lib/index.js",
