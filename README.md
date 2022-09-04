@@ -1,3 +1,10 @@
+<!-- markdownlint-disable-next-line -->
+<p align="center">
+  <img width="150" src="https://res.cloudinary.com/lastshop802/image/upload/v1662288637/logoSheroz_w9anft.png" alt="MUI logo">
+</p>
+
+<h1 align="center">lastcode802</h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
