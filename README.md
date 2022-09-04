@@ -55,6 +55,10 @@ In the interactive demo below, try changing the props and see how it affects the
 
 [<img src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" width="40"/>](https://lastcode802.github.io/threedview/)
 
+Download default 3d model use in library.
+
+[<img src="https://cdn.worldvectorlogo.com/logos/google-drive.svg" width="40"/>](https://drive.google.com/file/d/1wpWWuF1tMPXOKk3Su2xi_oKRxrTxFYNq/view?usp=sharing)
+
 ## Document
 #
 ## Props
