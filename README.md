@@ -12,6 +12,7 @@ This library render a 3d model View on React.js and Next.js
 
 ## Description
 This library or package is all about rendering your 3D models in way, So you can manage or get preview of your 3D models and play with them. 
+The model loading speed in the browser depends on the user's internet speed.
 
 #
 ## Available Code
