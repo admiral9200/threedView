@@ -32,7 +32,8 @@ Default.args = {
     scalez: 0.02,
     threedviewcanvascolor: "#263238", 
     directionallightcolor: 0xffffff,
-    directionallightintensity: 1.8
+    directionallightintensity: 1.8,
+    showLoader: true,
 };
 export const DirectionLightColorExample = Template.bind({});
 DirectionLightColorExample.args = {
@@ -53,7 +54,9 @@ DirectionLightColorExample.args = {
     scalez: 0.02,
     threedviewcanvascolor: "#263238", 
     directionallightcolor: "white",
-    directionallightintensity: 1.8
+    directionallightintensity: 1.8,
+    loaderColor: 'red',
+    showLoader: false,
 };
 export const CanvasColorExample = Template.bind({});
 CanvasColorExample.args = {
@@ -74,7 +77,9 @@ CanvasColorExample.args = {
     scalez: 0.02,
     threedviewcanvascolor: "#f5e1fd", 
     directionallightcolor: "white",
-    directionallightintensity: 1.8
+    directionallightintensity: 1.8,
+    loaderColor: 'yellow',
+    showLoader: true,
 };
 export const ThreedModelCenterExample = Template.bind({});
 ThreedModelCenterExample.args = {
@@ -95,5 +100,7 @@ ThreedModelCenterExample.args = {
     scalez: 0.02,
     threedviewcanvascolor: "#f5e1fd", 
     directionallightcolor: "white",
-    directionallightintensity: 1.8
+    directionallightintensity: 1.8,
+    loaderColor: 'brown',
+    showLoader: true,
 };
