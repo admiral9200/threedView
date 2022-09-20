@@ -80,6 +80,8 @@ Download default 3d model use in library.
 | threedviewcanvascolor*  | THREE.ColorRepresentation  | white  | Accepts hash vale,rgb and name of the color  |
 |  directionallightcolor*  | number | 16777215  | Accepts hash vale,rgb and name of the color  |
 | directionallightintensity*  | number  | 1.8  | 0-255  |
+| loaderColor*  | string  | red  | Accepts hash vale,rgb and name of the color  |
+| showLoader*  | bool  | true  | true-false  |
 
 
 <hr></hr>
