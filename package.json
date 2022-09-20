@@ -1,6 +1,6 @@
 {
   "name": "@lastcode802/threedview",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "A custom lib for ThreeD View",
   "author": "lastcode802",
   "main": "./lib/index.js",
