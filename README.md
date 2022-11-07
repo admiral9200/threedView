@@ -83,6 +83,37 @@ Download default 3d model use in library.
 | loaderColor*  | string  | red  | Accepts hash vale,rgb and name of the color  |
 | showLoader*  | bool  | true  | true-false  |
 
+# Special Mentions for Contributors
+
+<!-- readme: contributors -start -->
+<div style="margin: 0 auto !important; overflow-y:hidden !important;">
+<table style="overflow-y:hidden !important;">
+<tr>
+    <td>
+        <a href="https://github.com/sharozraees802">
+            <img src="https://avatars.githubusercontent.com/u/52934734?v=4" width="150;" alt="sharozraees802"/>
+            <br />
+            <sub><b>Creator: Sharoz Raees</b></sub>
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/Sahilnenwani">
+            <img src="https://avatars.githubusercontent.com/u/59645201?s=400&u=f7a0e3a42e91410494c2cbbfb9d674dcbe291660&v=4"
+            width="150;" alt="SahilNenwani"/>
+            <br />
+            <sub><b>Maintainer: Sahil Nenwani</b></sub>
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/nadirdeveloper">
+            <img src="https://avatars.githubusercontent.com/u/63139854?v=4" width="150;" alt="NadirAli"/>
+            <br />
+            <sub><b>Maintainer: Nadir Ali</b></sub>
+        </a>
+    </td>
+    <tr>
+    </table>
+    </div>
 
 <hr></hr>
 <h1>Find & contact me</h1>
