@@ -94,6 +94,7 @@
     "@storybook/preset-create-react-app": "^4.1.2",
     "@storybook/react": "^6.5.10",
     "@storybook/testing-library": "0.0.13",
+    "@types/responselike": "^1.0.0",
     "@types/three": "^0.144.0",
     "babel-plugin-named-exports-order": "0.0.2",
     "canvas": "^2.9.3",
