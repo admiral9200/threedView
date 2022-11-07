@@ -93,7 +93,7 @@ Download default 3d model use in library.
         <a href="https://github.com/sharozraees802">
             <img src="https://avatars.githubusercontent.com/u/52934734?v=4" width="150;" alt="sharozraees802"/>
             <br />
-            <sub><b>Creator: Sharoz Raees</b></sub>
+            <sub><b>Creator: Muhammad Sheroz</b></sub>
         </a>
     </td>
     <td>
