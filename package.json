@@ -1,8 +1,8 @@
 {
-  "name": "@lastcode802/threedview",
+  "name": "admiral9200/threedview",
   "version": "0.1.13",
   "description": "A custom lib for ThreeD View",
-  "author": "lastcode802",
+  "author": "admiral9200",
   "main": "./lib/index.js",
   "directories": {
     "lib": "lib"
